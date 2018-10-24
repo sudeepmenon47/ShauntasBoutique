@@ -9,6 +9,9 @@
 ##### *Cart Page*
 ![cart page](https://user-images.githubusercontent.com/43235477/47419089-15c4fe80-d799-11e8-981d-e76039de0586.png)
 
+##### *Shipping Address Page*
+![shipping address page](https://user-images.githubusercontent.com/43235477/47419092-165d9500-d799-11e8-8977-712ce4642935.png)
+
 ##### *Payment Page*
 ![payment page](https://user-images.githubusercontent.com/43235477/47419090-15c4fe80-d799-11e8-9629-87502c894cb8.png)
 
@@ -23,6 +26,3 @@
 
 ##### *Admin Products Page*
 ![admin products page](https://user-images.githubusercontent.com/43235477/47419088-15c4fe80-d799-11e8-920d-3aaeabec41a7.png)
-
-##### *Shipping Address Page*
-![shipping address page](https://user-images.githubusercontent.com/43235477/47419092-165d9500-d799-11e8-8977-712ce4642935.png)
