@@ -1,5 +1,5 @@
 # ShauntasBoutique
-## ScreenShots
+## ScreenShot: 
 ##### *Home page*
 ![home page](https://user-images.githubusercontent.com/43235477/47419056-06de4c00-d799-11e8-9505-82ec644a388d.png)
 
